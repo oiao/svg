@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   sodipodi:docname="code.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 60.497089 50.752983"
+   height="50.752983mm"
+   width="60.497089mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <rect
+       x="106.33873"
+       y="305.75674"
+       width="257.47076"
+       height="114.23087"
+       id="rect35204" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:snap-global="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-maximized="1"
+     inkscape:window-y="22"
+     inkscape:window-x="58"
+     inkscape:window-height="1021"
+     inkscape:window-width="1862"
+     showborder="true"
+     units="mm"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="38.393689"
+     inkscape:cx="115.18107"
+     inkscape:zoom="1.8101934"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.4"
+     borderopacity="0.2"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     transform="translate(-62.355622,-92.859186)">
+    <path
+       id="rect30761"
+       style="fill:#000c00;fill-opacity:1;stroke:none;stroke-width:0.680336;stroke-opacity:1"
+       d="m 65.151318,92.859186 c -1.548736,0 -2.795696,1.246444 -2.795696,2.795177 v 4.876707 H 122.8527 v -4.876707 c 0,-1.548733 -1.24696,-2.795177 -2.79569,-2.795177 z"
+       inkscape:export-filename="/home/leo/Documents/phd/fig/presentation/code_abinitio.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <g
+       id="g32911"
+       transform="translate(3.2956614,27.385146)"
+       inkscape:export-filename="/home/leo/Documents/phd/fig/presentation/code_abinitio.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.43361;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path32648"
+         cx="116.14215"
+         cy="69.203201"
+         r="1.4429969" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.43361;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path32648-3"
+         cx="112.3325"
+         cy="69.203201"
+         r="1.4429969" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.43361;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path32648-8"
+         cx="108.52284"
+         cy="69.203201"
+         r="1.4429969" />
+    </g>
+    <path
+       id="rect30761-8"
+       style="fill:#000c00;fill-opacity:1;stroke:none;stroke-width:0.180006;stroke-opacity:1"
+       d="m 62.355622,102.11857 v 38.69842 c 3e-6,1.54874 1.246963,2.79518 2.795696,2.79518 h 54.905692 c 1.54873,0 2.7957,-1.24644 2.7957,-2.79518 v -38.69842 z"
+       inkscape:export-filename="/home/leo/Documents/phd/fig/presentation/code_abinitio.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.69633084,0,0,0.69633084,-1.2916953,-102.67618)"
+       id="text35202"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect35204);fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/leo/Documents/phd/fig/presentation/code_abinitio.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         x="106.33789"
+         y="341.14648"
+         id="tspan87482"><tspan
+           style="font-family:Manjari;-inkscape-font-specification:Manjari"
+           id="tspan87480">&lt;/&gt;</tspan></tspan></text>
+  </g>
+</svg>
